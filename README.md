@@ -11,13 +11,13 @@
 
 ## Requirements
 
-* Tweepy
+* Install Tweepy
 
 ```bash
 pip3 install tweepy
 ```
 
-* config.py File
+* Setup your config.py File with your developer credentials
 
 ```python
 API_KEY = 'YOUR-API-KEY-GOES-HERE'
