@@ -9,7 +9,7 @@
 
 ## Scripts
 
-* get_friendship_data.py
+### get_friendship_data.py
 
 This script finds out any user's follower and following and generates two CSV files with the username and user_id.
 
